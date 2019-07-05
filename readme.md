@@ -1,0 +1,2 @@
+# outline
+corabolatoryで機械学習勉強したのでそのファイルをぽんぽん投げる。
